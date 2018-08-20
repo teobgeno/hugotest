@@ -1,0 +1,4 @@
+baseURL = "http://www.fitwithyourdog.gr/"
+languageCode = "en-us"
+title = "FitWithYourDog"
+theme = "fwdtpl"

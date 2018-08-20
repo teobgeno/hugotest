@@ -1,7 +1,6 @@
 ---
-title: "Zougla"
-date: 2018-08-20T10:14:08+03:00
-draft: false
+title: Zougla2
+date: 2018-08-20T07:14:08.000Z
 ---
 
 <div class="items-row cols-1 row-2 row-fluid clearfix">
